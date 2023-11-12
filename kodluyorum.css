@@ -1,0 +1,80 @@
+/****Layout**
+
+body { 
+
+    font family:
+
+    font-family: var(--chakra-fonts-body);
+    color: var(--chakra-colors-chakra-body-text);
+    background: #F8F9FA;
+    transition-property: background-color;
+    transition-duration: var(--chakra-transition-duration-normal);
+    line-height: var(--chakra-lineHeights-base);
+}
+
+center {
+    display: block;
+    text-align: center;
+}
+
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    line-height: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    border-spacing: ; 2px;
+    white-space: normal;
+    font-variant: normal;
+}
+*/
+
+.box{
+    width: 298px;
+    height: 120px;
+   background-color: aqua;
+   font-family: 'Times New Roman', Times, serif;
+   font-size:small;
+   margin-left:2px;
+   margin-right:auto;
+   float: left;
+  
+
+}
+
+.box0   {
+background-color:lightgrey;
+width: 900px;
+height: 175px;
+font-family: 'Times New Roman', Times, serif;
+font-size: small;
+margin-left: auto;
+margin-right: auto;
+
+}
+.clear {
+
+    clear:both;
+}
+
+.box1  {
+    margin-left: 20px;
+
+}
+
+.arama {
+
+text-align: center;
+margin-left:2px;
+margin-right:auto;
+
+
+}
+
+.subcribe   {
+
+    float:left;
+    
+}
